@@ -1,0 +1,9 @@
+c:\users\snarayan\source\repos\PracticalInplemention\GitOperation\bin\Debug\netstandard2.0\GitOperation.deps.json
+c:\users\snarayan\source\repos\PracticalInplemention\GitOperation\bin\Debug\netstandard2.0\GitOperation.dll
+c:\users\snarayan\source\repos\PracticalInplemention\GitOperation\bin\Debug\netstandard2.0\GitOperation.pdb
+c:\users\snarayan\source\repos\PracticalInplemention\GitOperation\obj\Debug\netstandard2.0\GitOperation.csprojResolveAssemblyReference.cache
+c:\users\snarayan\source\repos\PracticalInplemention\GitOperation\obj\Debug\netstandard2.0\GitOperation.csproj.CoreCompileInputs.cache
+c:\users\snarayan\source\repos\PracticalInplemention\GitOperation\obj\Debug\netstandard2.0\GitOperation.AssemblyInfoInputs.cache
+c:\users\snarayan\source\repos\PracticalInplemention\GitOperation\obj\Debug\netstandard2.0\GitOperation.AssemblyInfo.cs
+c:\users\snarayan\source\repos\PracticalInplemention\GitOperation\obj\Debug\netstandard2.0\GitOperation.dll
+c:\users\snarayan\source\repos\PracticalInplemention\GitOperation\obj\Debug\netstandard2.0\GitOperation.pdb
